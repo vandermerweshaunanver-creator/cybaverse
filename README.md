@@ -6,14 +6,13 @@ Where technology meets imagination, we build cleaner, smarter communities
 </div>
 
 <div id="badges" align="left">
-  <a href="https://www.linkedin.com/in/shaun-van-der-merwe-b667b2360">
+  <a href="your-linkedin-URL">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  <a href="https://gravatar.com/shaunanver">
-    <img src="https://img.shields.io/badge/Gravatar-blue?style=social&logo=Gravatar&logoColor=%231E8CBE&color=%23000000" alt="Gravatar Badge"/>
-                    
+  <a href="your-youtube-URL">
+    <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
   </a>
-  <a href="https://www.x.com/shaunanver">
+  <a href="your-twitter-URL">
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
 </div>
