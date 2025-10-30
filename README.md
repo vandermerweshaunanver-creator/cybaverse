@@ -22,9 +22,20 @@
 </h1>
 <p>Our mission is to foster cleaner, smarter communities through the strategic application of technology. This project introduces real-world use cases for AI and drone technology to actively improve environmental conditions and support global Sustainable Development Goals.
 We leverage computer vision to identify and address illegal dumping sites in real-time, translating imagination into actionable solutions for a more sustainable society.</p>
-<div align="center">
+<div align="left">
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
 </div>
+---
+
+### Technologist Enthusiast: 
+I am an eX-Solution Architect <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
+- :telescope: I’m working as a Software Engineer and contributing to frontend and backend for building web applications.
+
+- :seedling: Exploring Technical Content Writing.
+
+- :zap: In my free time, I solve problems on GeeksforGeeks and read tech articles.
+
+- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](your-linkedin-url)
 
 
 
