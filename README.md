@@ -17,7 +17,7 @@
 </div>
 
 <h1>
-  # cybaverse
+  # Cybaverse
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
 <p>Where technology meets imagination, we build cleaner, smarter communities</p>
