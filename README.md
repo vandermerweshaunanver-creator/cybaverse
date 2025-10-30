@@ -20,4 +20,10 @@
   # Cybaverse
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
-<p>Where technology meets imagination, we build cleaner, smarter communities by creating real-world Use Cases that improve and enhance Societies and support Sustainable Goals </p>
+<p>Our mission is to foster cleaner, smarter communities through the strategic application of technology. This project introduces real-world use cases for AI and drone technology to actively improve environmental conditions and support global Sustainable Development Goals.
+We leverage computer vision to identify and address illegal dumping sites in real-time, translating imagination into actionable solutions for a more sustainable society.</p>
+Key Technology Focus:
+''AI-powered Real-time Waste Detection
+''Drone Integration for autonomous monitoring
+''Web Application Interface for community engagement and data reporting
+
