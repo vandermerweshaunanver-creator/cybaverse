@@ -37,7 +37,6 @@ Our mission is to foster cleaner, smarter communities through the strategic appl
 We leverage computer vision to identify and address illegal dumping sites in real-time, translating imagination into actionable solutions for a more sustainable society.
 
 Key Technology Focus:
-<li>AI-powered Real-time Waste Detection</li>
-<li>Drone Integration for autonomous monitoring</li>
-<li>Web Application Interface for community engagement and data reporting</li>
+<li>AI-powered Real-time Waste Detection with Drone Integration for autonomous monitoring</li>
+<li>Adaptive Traffic Management and Smart Traffic Management Solution</li>
 
