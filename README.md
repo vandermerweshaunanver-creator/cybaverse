@@ -33,4 +33,11 @@
 ---
 
 ### :writing_hand: Blog Posts :
+Our mission is to foster cleaner, smarter communities through the strategic application of technology. This project introduces real-world use cases for AI and drone technology to actively improve environmental conditions and support global Sustainable Development Goals.
+We leverage computer vision to identify and address illegal dumping sites in real-time, translating imagination into actionable solutions for a more sustainable society.
+
+Key Technology Focus:
+<li>AI-powered Real-time Waste Detection</li>
+<li>Drone Integration for autonomous monitoring</li>
+<li>Web Application Interface for community engagement and data reporting</li>
 
